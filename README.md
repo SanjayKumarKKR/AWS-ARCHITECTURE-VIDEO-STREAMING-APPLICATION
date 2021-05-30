@@ -6,7 +6,8 @@ Streaming Videos Service is a multimedia outlet,that is presented to customer wh
 1.  AWS S3:  Amazon Simple Storage Service may be a carrier presented via way ofmeans of Amazon Web Ser-vices (AWS) that offers item garage via an online carrierinterface.  It acts as a storage bucket to keep up the vital objects.  This facilitates us tostay the films that are to be streamed.
 2. AWS LAMBDA: This carrier facilitates us to run code for any backend carrier allwith zero administration.
 3. AWS Elastic Transcoder: You can use Amazon Elastic Transcoder to transcode me-dia in the cloud.  It aims to provide developers and businesses with a highly scalable,easy-to-use and affordable way to convert (or "transcode") media files from their origi-nal format to be available on smartphones, tablets, and devices.
-4. AWS  Simple  Notification  Service:Simple  Notification  Service  (SNS)  It  can  be  across-system and cross-application messaging service (A2P) that is fully managed viaSMS and email.5.  AWS CloudFront:  Amazon CloudFront is a web-based service that securely sends data and also various forms of videos, applications, and APIs to a wide range of cus-tomers all over the globe with minimized latency, highest transfer rates and all thesewithin developer supportive and friendly environment.
+4. AWS  Simple  Notification  Service:Simple  Notification  Service  (SNS)  It  can  be  across-system and cross-application messaging service (A2P) that is fully managed viaSMS and email.
+5. AWS CloudFront:  Amazon CloudFront is a web-based service that securely sends data and also various forms of videos, applications, and APIs to a wide range of cus-tomers all over the globe with minimized latency, highest transfer rates and all thesewithin developer supportive and friendly environment.
 
 
 # Working
