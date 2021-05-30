@@ -9,5 +9,5 @@ Streaming Videos Service is a multimedia outlet,that is presented to customer wh
 4. AWS  Simple  Notification  Service:Simple  Notification  Service  (SNS)  It  can  be  across-system and cross-application messaging service (A2P) that is fully managed viaSMS and email.5.  AWS CloudFront:  Amazon CloudFront is a web-based service that securely sends data and also various forms of videos, applications, and APIs to a wide range of cus-tomers all over the globe with minimized latency, highest transfer rates and all thesewithin developer supportive and friendly environment.
 
 
-#Working
+# Working
 First upload the video files into the S3 bucket using the Admin Android Application.As soon as the video is successfully uploaded the lambda function gets triggered then itinvokes the Elastic transcoder pipeline which takes the video file as input and formatsit into mpeg format and uploads the formatted video into another S3 bucket locatedin backend by AWS Cloudfront.Firebase Database is used to store the details of themovies that acts as a meta-data of the videos uploaded.After the Elastic transcoder hastranscoded the video file it send an email to the Admin through an email.  The Clients who want to watch the video can access the video through the Client Android Application.
