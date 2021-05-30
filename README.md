@@ -1,4 +1,4 @@
 # AWS-ARCHITECTURE-VIDEO-STREAMING-APPLICATION
 Streaming Videos Service is a multimedia outlet,that is presented to customer who isalways receiving data even whien being dispatched through a middle man.The amazon-web-services are a huge compilation of distant processing cloud servicing that cometogether to be known as a AWS platform, which is provided by amazon through theInternet.One of the essential and important of the services are the Amazon s3 and theAmazon EC2.   Compared with building a server farm on an all-in-one machine,  theproducts provided are faster, more scalable, and lower in cost.  In modern machines,media streaming is done through computer systems and is not always usable by ordinarypeople.Therefore, the device is designed so that anyone using a smart phone can accessthe media streaming content.
 
-![alt text]()
+![alt text](https://github.com/SanjayKumarKKR/AWS-ARCHITECTURE-VIDEO-STREAMING-APPLICATION/blob/93f959440b7e7b981a3e59290d7f0afd66ffe24b/Screenshots/AF1.png)
