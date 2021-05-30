@@ -14,13 +14,13 @@ First upload the video files into the S3 bucket using the Admin Android Applicat
 
 # ScreenShots
 <p float="left">
-  <img src="https://github.com/SanjayKumarKKR/AWS-ARCHITECTURE-VIDEO-STREAMING-APPLICATION/blob/3a88d2bd3e929335a3dc50b539bd39163b07ba52/Screenshots/AF1.png" width="300" />
-  <img src="https://github.com/SanjayKumarKKR/AWS-ARCHITECTURE-VIDEO-STREAMING-APPLICATION/blob/1b31d9004e3619fbee5150983a1b0d79bb93babd/Screenshots/AF2.png" width="300" /> 
-  <img src="https://github.com/SanjayKumarKKR/AWS-ARCHITECTURE-VIDEO-STREAMING-APPLICATION/blob/1b31d9004e3619fbee5150983a1b0d79bb93babd/Screenshots/Af3.png" width="300" />
+  <img src="https://github.com/SanjayKumarKKR/AWS-ARCHITECTURE-VIDEO-STREAMING-APPLICATION/blob/3a88d2bd3e929335a3dc50b539bd39163b07ba52/Screenshots/AF1.png" width="200" />
+  <img src="https://github.com/SanjayKumarKKR/AWS-ARCHITECTURE-VIDEO-STREAMING-APPLICATION/blob/1b31d9004e3619fbee5150983a1b0d79bb93babd/Screenshots/AF2.png" width="200" /> 
+  <img src="https://github.com/SanjayKumarKKR/AWS-ARCHITECTURE-VIDEO-STREAMING-APPLICATION/blob/1b31d9004e3619fbee5150983a1b0d79bb93babd/Screenshots/Af3.png" width="200" />
 </p>
 
 <p float="left">
-  <img src="https://github.com/SanjayKumarKKR/AWS-ARCHITECTURE-VIDEO-STREAMING-APPLICATION/blob/d8ed368ec2f9430b420789a7c6cfc2312a7c76cc/Screenshots/c2.png" width="300" />
-  <img src="https://github.com/SanjayKumarKKR/AWS-ARCHITECTURE-VIDEO-STREAMING-APPLICATION/blob/d8ed368ec2f9430b420789a7c6cfc2312a7c76cc/Screenshots/c3.png" width="300" /> 
-  <img src="https://github.com/SanjayKumarKKR/AWS-ARCHITECTURE-VIDEO-STREAMING-APPLICATION/blob/d8ed368ec2f9430b420789a7c6cfc2312a7c76cc/Screenshots/r1.png" width="300" />
+  <img src="https://github.com/SanjayKumarKKR/AWS-ARCHITECTURE-VIDEO-STREAMING-APPLICATION/blob/d8ed368ec2f9430b420789a7c6cfc2312a7c76cc/Screenshots/c2.png" width="200" />
+  <img src="https://github.com/SanjayKumarKKR/AWS-ARCHITECTURE-VIDEO-STREAMING-APPLICATION/blob/d8ed368ec2f9430b420789a7c6cfc2312a7c76cc/Screenshots/c3.png" width="200" /> 
+  <img src="https://github.com/SanjayKumarKKR/AWS-ARCHITECTURE-VIDEO-STREAMING-APPLICATION/blob/d8ed368ec2f9430b420789a7c6cfc2312a7c76cc/Screenshots/r1.png" width="200" />
 </p>
