@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:textAlignment="center"
+>
+
+ <TextView
+     android:layout_width="match_parent"
+     android:layout_height="150px"
+     android:background="@color/colorPrimary"
+     android:paddingLeft="280px"
+     android:text="AmritaFlix"
+     android:textAlignment="center"
+     android:textColor="@color/colorAccent"
+     android:textSize="100px" />
+
+ <Button
+     android:id="@+id/buttonDownloadMain"
+     android:layout_width="500px"
+     android:layout_height="wrap_content"
+     android:layout_gravity="center"
+     android:layout_marginTop="50dp"
+     android:background="@color/colorAccent"
+     android:padding="20dp"
+     android:text="@string/manage_download" />
+
+ <Button
+     android:id="@+id/buttonUploadMain"
+     android:layout_width="500px"
+     android:layout_height="wrap_content"
+     android:layout_gravity="center"
+     android:layout_marginTop="20dp"
+     android:layout_marginBottom="10dp"
+     android:background="@color/colorAccent"
+     android:padding="20dp"
+     android:text="@string/manage_upload" />
+
+ <Button
+     android:id="@+id/UploadData"
+     android:layout_width="500px"
+     android:layout_height="wrap_content"
+     android:layout_gravity="center"
+     android:layout_marginTop="20dp"
+     android:layout_marginBottom="20dp"
+     android:background="@color/colorAccent"
+     android:padding="20dp"
+     android:text="@string/upload_data" />
+
+ <LinearLayout
+     android:layout_width="1000px"
+     android:layout_height="800px"
+     android:layout_marginLeft="50px"
+     android:layout_marginBottom="150px"
+     android:background="@drawable/rectanglebg"
+     android:layout_marginTop="100px"
+     android:orientation="vertical"
+  >
+
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="100px"
+      android:background="@color/colorPrimary"
+      android:paddingLeft="250px"
+      android:text="Project Members"
+      android:textAlignment="center"
+      android:textColor="#FFFFFF"
+      android:textSize="70px" />
+
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="100px"
+      android:background="@color/colorAccent"
+      android:text="Sanjay Kumar CB.EN.U4CSE17149"
+      android:textColor="#FFFFFF"
+      android:textSize="60px" />
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="100px"
+      android:background="@color/colorAccent"
+      android:text="Neeraj Kumar CB.EN.U4CSE17445"
+      android:textColor="#FFFFFF"
+      android:textSize="60px" />
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="100px"
+      android:background="@color/colorAccent"
+      android:text="Mani Kumar CB.EN.U4CSE17151"
+      android:textColor="#FFFFFF"
+      android:textSize="60px" />
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="100px"
+      android:background="@color/colorAccent"
+      android:text="Narasimha V CB.EN.U4CSE17162"
+      android:textColor="#FFFFFF"
+      android:textSize="60px" />
+
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="100px"
+      android:layout_marginTop="20px"
+      android:background="@color/colorPrimary"
+      android:paddingLeft="250px"
+      android:text="Project Guide"
+      android:textAlignment="center"
+      android:textColor="#FFFFFF"
+      android:textSize="70px" />
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="200px"
+      android:background="@color/colorAccent"
+      android:text="Dr. Senthil Kumar T Asst.Prof, Dept of CSE"
+      android:textColor="#FFFFFF"
+      android:textSize="60px" />
+
+ </LinearLayout>
+</LinearLayout>

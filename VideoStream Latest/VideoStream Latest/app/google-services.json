@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "251368542574",
+    "project_id": "finalyearproject-eeb65",
+    "storage_bucket": "finalyearproject-eeb65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251368542574:android:0a3839620c02a16e52717f",
+        "android_client_info": {
+          "package_name": "com.amazonaws.demo.s3transferutility"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251368542574-h8andm2qcm7j3t0bugvivrc6mgrkp9nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvH-gJYjfBqhPFBzxEBgpV6oibRq1QXAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251368542574-h8andm2qcm7j3t0bugvivrc6mgrkp9nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251368542574:android:6f848e8c2e7c44b352717f",
+        "android_client_info": {
+          "package_name": "io.github.gouthams22.android.videostreamer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251368542574-h8andm2qcm7j3t0bugvivrc6mgrkp9nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvH-gJYjfBqhPFBzxEBgpV6oibRq1QXAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251368542574-h8andm2qcm7j3t0bugvivrc6mgrkp9nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

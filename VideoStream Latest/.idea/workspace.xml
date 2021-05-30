@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b85e397a-345c-4a1c-beac-8df8db8952a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/VideoStream Latest/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoStream Latest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/VideoStream Latest/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoStream Latest/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/VideoStream Latest/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoStream Latest/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/VideoStream Latest/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoStream Latest/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/VideoStream Latest/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoStream Latest/app/src/main/java/io/github/gouthams22/android/videostreamer/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/VideoStream Latest/app/src/main/java/io/github/gouthams22/android/videostreamer/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoStream Latest/app/src/main/java/io/github/gouthams22/android/videostreamer/MovieAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/VideoStream Latest/app/src/main/java/io/github/gouthams22/android/videostreamer/MovieAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoStream Latest/app/src/main/java/io/github/gouthams22/android/videostreamer/UserHelperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/VideoStream Latest/app/src/main/java/io/github/gouthams22/android/videostreamer/UserHelperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoStream Latest/app/src/main/java/io/github/gouthams22/android/videostreamer/VideoPlayerActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/VideoStream Latest/app/src/main/java/io/github/gouthams22/android/videostreamer/VideoPlayerActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoStream Latest/app/src/main/res/drawable/rectanglebg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/VideoStream Latest/app/src/main/res/drawable/rectanglebg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoStream Latest/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/VideoStream Latest/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoStream Latest/app/src/main/res/layout/item_movies.xml" beforeDir="false" afterPath="$PROJECT_DIR$/VideoStream Latest/app/src/main/res/layout/item_movies.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoStream Latest/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/VideoStream Latest/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/VideoStream Latest" />
+  </component>
+  <component name="ProjectId" id="1sbmaflfKEfu7r0nvKH2IS6fJvz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/VideoStream Latest" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b85e397a-345c-4a1c-beac-8df8db8952a4" name="Default Changelist" comment="" />
+      <created>1621149728808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621149728808</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1621149756768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621149756768" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1621149739831">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1621149739831" />
+  </component>
+</project>

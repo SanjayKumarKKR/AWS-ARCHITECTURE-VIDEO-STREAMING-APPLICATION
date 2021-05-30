@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\S3TransferUtilitySample Latest\\build\\intermediates\\res\\merged\\debug\\layout_activity_upload__data.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\S3TransferUtilitySample Latest\\res\\layout\\activity_upload__data.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\S3TransferUtilitySample Latest\\build\\intermediates\\res\\merged\\debug\\layout_record_item.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\S3TransferUtilitySample Latest\\res\\layout\\record_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\S3TransferUtilitySample Latest\\build\\intermediates\\res\\merged\\debug\\layout_activity_upload.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\S3TransferUtilitySample Latest\\res\\layout\\activity_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\S3TransferUtilitySample Latest\\build\\intermediates\\res\\merged\\debug\\layout_bucket_item.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\S3TransferUtilitySample Latest\\res\\layout\\bucket_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\S3TransferUtilitySample Latest\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\Desktop\\S3TransferUtilitySample Latest\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\S3TransferUtilitySample Latest\\build\\intermediates\\res\\merged\\debug\\raw_awsconfiguration.json.flat",
+        "source": "C:\\Users\\USER\\Desktop\\S3TransferUtilitySample Latest\\res\\raw\\awsconfiguration.json"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\S3TransferUtilitySample Latest\\build\\intermediates\\res\\merged\\debug\\layout_activity_download_selection.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\S3TransferUtilitySample Latest\\res\\layout\\activity_download_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\S3TransferUtilitySample Latest\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\S3TransferUtilitySample Latest\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\S3TransferUtilitySample Latest\\build\\intermediates\\res\\merged\\debug\\layout_activity_download.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\S3TransferUtilitySample Latest\\res\\layout\\activity_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\S3TransferUtilitySample Latest\\build\\intermediates\\res\\merged\\debug\\drawable_rectanglebg.xml.flat",
+        "source": "C:\\Users\\USER\\Desktop\\S3TransferUtilitySample Latest\\res\\drawable\\rectanglebg.xml"
+    }
+]

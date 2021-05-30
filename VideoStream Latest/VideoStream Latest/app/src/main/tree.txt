@@ -1,0 +1,51 @@
+Folder PATH listing
+Volume serial number is B0F9-542C
+C:.
+|   AndroidManifest.xml
+|   logo-playstore.png
+|   tree.txt
+|   
++---java
+|   \---io
+|       \---github
+|           \---android
+|                   \---videostreamer
+|                           MainActivity.java
+|                           MovieAdapter.java
+|                           UserHelperClass.java
+|                           VideoPlayerActivity.java
+|                           
+\---res
+    +---drawable
+    |       arrow_asset.xml
+    |       expand_button.xml
+    |       ic_launcher_background.xml
+    |       rectanglebg.xml
+    |       
+    +---drawable-v24
+    |       ic_launcher_foreground.xml
+    |       
+    +---layout
+    |       activity_main.xml
+    |       activity_video_player.xml
+    |       item_movies.xml
+    |       
+    +---mipmap-anydpi-v26
+    |       ic_launcher.xml
+    |       ic_launcher_round.xml
+    |       logo.xml
+    |       logo_round.xml
+    |       
+    +---mipmap-hdpi
+    |       ic_launcher.png
+    |       ic_launcher_round.png
+    |       logo.png
+    |       logo_foreground.png
+    |       logo_round.png
+    |       
+    \---values
+            colors.xml
+            logo_background.xml
+            strings.xml
+            styles.xml
+            
