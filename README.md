@@ -13,13 +13,13 @@ Streaming Videos Service is a multimedia outlet,that is presented to customer wh
 First upload the video files into the S3 bucket using the Admin Android Application.As soon as the video is successfully uploaded the lambda function gets triggered then itinvokes the Elastic transcoder pipeline which takes the video file as input and formatsit into mpeg format and uploads the formatted video into another S3 bucket locatedin backend by AWS Cloudfront.Firebase Database is used to store the details of themovies that acts as a meta-data of the videos uploaded.After the Elastic transcoder hastranscoded the video file it send an email to the Admin through an email.  The Clients who want to watch the video can access the video through the Client Android Application.
 
 # ScreenShots
-<p float="left">
+<p>
   <img src="https://github.com/SanjayKumarKKR/AWS-ARCHITECTURE-VIDEO-STREAMING-APPLICATION/blob/3a88d2bd3e929335a3dc50b539bd39163b07ba52/Screenshots/AF1.png" width="250" />
   <img src="https://github.com/SanjayKumarKKR/AWS-ARCHITECTURE-VIDEO-STREAMING-APPLICATION/blob/1b31d9004e3619fbee5150983a1b0d79bb93babd/Screenshots/AF2.png" width="250" /> 
   <img src="https://github.com/SanjayKumarKKR/AWS-ARCHITECTURE-VIDEO-STREAMING-APPLICATION/blob/1b31d9004e3619fbee5150983a1b0d79bb93babd/Screenshots/Af3.png" width="250" />
 </p>
 
-<p float="left">
+<p>
   <img src="https://github.com/SanjayKumarKKR/AWS-ARCHITECTURE-VIDEO-STREAMING-APPLICATION/blob/d8ed368ec2f9430b420789a7c6cfc2312a7c76cc/Screenshots/c2.png" width="250" />
   <img src="https://github.com/SanjayKumarKKR/AWS-ARCHITECTURE-VIDEO-STREAMING-APPLICATION/blob/d8ed368ec2f9430b420789a7c6cfc2312a7c76cc/Screenshots/c3.png" width="250" /> 
   <img src="https://github.com/SanjayKumarKKR/AWS-ARCHITECTURE-VIDEO-STREAMING-APPLICATION/blob/d8ed368ec2f9430b420789a7c6cfc2312a7c76cc/Screenshots/r1.png" width="250" />
